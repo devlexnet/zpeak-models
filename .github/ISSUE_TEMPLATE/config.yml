@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem with Zpeak or its models
+    url: https://github.com/devlexnet/zpeak/issues/new/choose
+    about: Issues for the app and the models it downloads are kept in the main repository.
+  - name: Report a security problem
+    url: https://github.com/devlexnet/zpeak/security/advisories/new
+    about: Please report vulnerabilities privately, not as an issue.
